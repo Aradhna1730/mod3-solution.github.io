@@ -1,0 +1,68 @@
+body {
+    background-image: url(https://static.vecteezy.com/system/resources/previews/004/750/609/non_2x/flat-design-abstract-background-soft-liquid-shapes-template-with-modern-gradient-background-colors-cool-aesthetic-background-design-suitable-for-social-media-post-mobile-app-banner-web-ads-free-vector.jpg);
+
+    font-family: 'Indiflower', Cursive;
+}
+
+.navbar {
+    background-color: rgba(123, 73, 128, 0.6);
+}
+
+.navbar:hover {
+    background-color: rgb(180, 131, 185);
+}
+
+.content {
+    background-color: rgba(123, 73, 128, 0.6);
+    border: 1px solid black;
+    /*margin: auto 4px ;*/
+}
+
+.content:hover {
+    background-color: rgb(180, 131, 185);
+}
+
+.heading {
+    text-align: center;
+}
+
+nav {
+    border: 1px solid rgb(137, 22, 128);
+}
+
+li {
+    border-top: 1px solid rgb(137, 22, 128);
+}
+
+li:hover {
+    background-color: rgba(137, 96, 141, 0.8);
+    color: black;
+}
+
+.nav-link{
+    text-decoration: none;
+    color: rgb(1, 1, 1);
+}
+.content>div {
+    color: rgb(40, 39, 39);
+}
+.content>div:hover {
+    color: black;
+}
+
+.btt {
+    color: rgb(36, 36, 142);
+}
+
+h1 {
+    color: rgb(0, 0, 0);
+}
+
+button {
+    border-radius: 5px;
+    background-color: rgba(144, 52, 136, 0.6);
+}
+
+button:active {
+    background-color: rgb(137, 22, 128);
+}
